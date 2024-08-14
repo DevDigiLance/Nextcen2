@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: whitesmoke;
+}
+.navbar{
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.logo{
+    padding: 10px;
+}
+.hsf{
+    display: flex;
+}
